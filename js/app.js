@@ -49,7 +49,7 @@
   const notices = [
     {
       id: 'n001',
-      title: '밥친구 서비스 업데이트 안내',
+      title: 'You and 米 서비스 업데이트 안내',
       date: '2026.05.25',
       content: '지도 탭과 지역 게시판 목업 기능이 추가되었습니다. 시연용 앱에서는 실제 결제와 위치 API가 동작하지 않습니다.',
     },
@@ -260,7 +260,7 @@
         <div class="section-header">
           <div>
             <h2 id="home-restaurants-title" class="section-header__title">추천 식당</h2>
-            <p class="section-header__subtitle">밥친구님을 위한 오늘의 픽</p>
+            <p class="section-header__subtitle">You and 米님을 위한 오늘의 픽</p>
           </div>
           <a class="section-header__link" href="#map">더 보기→</a>
         </div>
@@ -432,8 +432,8 @@
     if (room.isGroup) {
       return `
         <span class="chat-avatar-stack" aria-hidden="true">
-          <span>${escapeHtml(initials[0] || '밥')}</span>
-          <span>${escapeHtml(initials[1] || '친')}</span>
+          <span>${escapeHtml(initials[0] || 'Y')}</span>
+          <span>${escapeHtml(initials[1] || '米')}</span>
           <span>+</span>
         </span>
       `;
@@ -479,7 +479,7 @@
           <h1 id="title-chat" class="view__title">채팅</h1>
           <button class="chat-notification" type="button" data-open-notifications aria-label="알림">🔔</button>
         </header>
-        <div class="empty-state"><strong>채팅방이 없습니다</strong><p>밥친구를 추가하고 첫 대화를 시작해보세요.</p></div>
+        <div class="empty-state"><strong>채팅방이 없습니다</strong><p>친구를 추가하고 첫 대화를 시작해보세요.</p></div>
       `;
     }
 
@@ -677,9 +677,9 @@
   function renderMypageMain() {
     return `
       <header class="mypage-profile">
-        <div class="mypage-profile__avatar" aria-hidden="true">밥</div>
+        <div class="mypage-profile__avatar" aria-hidden="true">米</div>
         <div class="mypage-profile__body">
-          <h1 id="title-mypage">밥친구님</h1>
+          <h1 id="title-mypage">You and 米</h1>
           <p>오늘도 맛있는 약속을 찾아보세요</p>
           <button class="btn btn--pill mypage-edit-button" type="button">프로필 편집</button>
         </div>
