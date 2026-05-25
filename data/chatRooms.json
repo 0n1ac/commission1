@@ -1,0 +1,42 @@
+[
+  {
+    "id": "c001",
+    "name": "한지호",
+    "lastMessage": "라멘집 앞에서 만나요!",
+    "time": "오후 6:12",
+    "unreadCount": 2,
+    "isGroup": false
+  },
+  {
+    "id": "c002",
+    "name": "강남 저녁 모임",
+    "lastMessage": "N빵 금액 확인했습니다.",
+    "time": "오후 5:40",
+    "unreadCount": 4,
+    "isGroup": true
+  },
+  {
+    "id": "c003",
+    "name": "김서윤",
+    "lastMessage": "비건 메뉴도 괜찮으세요?",
+    "time": "오후 3:18",
+    "unreadCount": 0,
+    "isGroup": false
+  },
+  {
+    "id": "c004",
+    "name": "박민재",
+    "lastMessage": "곱창집 웨이팅 걸어둘게요.",
+    "time": "어제",
+    "unreadCount": 1,
+    "isGroup": false
+  },
+  {
+    "id": "c005",
+    "name": "성수 점심 번개",
+    "lastMessage": "내일 12시 20분 어떠세요?",
+    "time": "월요일",
+    "unreadCount": 0,
+    "isGroup": true
+  }
+]

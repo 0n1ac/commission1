@@ -1,0 +1,51 @@
+[
+  {
+    "id": "u001",
+    "name": "한지호",
+    "tags": ["라멘", "일식"],
+    "profileImage": "",
+    "isFriend": false
+  },
+  {
+    "id": "u002",
+    "name": "김서윤",
+    "tags": ["비건", "브런치"],
+    "profileImage": "",
+    "isFriend": false
+  },
+  {
+    "id": "u003",
+    "name": "박민재",
+    "tags": ["곱창", "한식"],
+    "profileImage": "",
+    "isFriend": true
+  },
+  {
+    "id": "u004",
+    "name": "이하린",
+    "tags": ["카레", "혼밥"],
+    "profileImage": "",
+    "isFriend": false
+  },
+  {
+    "id": "u005",
+    "name": "정도윤",
+    "tags": ["파스타", "와인"],
+    "profileImage": "",
+    "isFriend": false
+  },
+  {
+    "id": "u006",
+    "name": "최유나",
+    "tags": ["떡볶이", "분식"],
+    "profileImage": "",
+    "isFriend": false
+  },
+  {
+    "id": "u007",
+    "name": "윤태오",
+    "tags": ["쌀국수", "아시안"],
+    "profileImage": "",
+    "isFriend": true
+  }
+]

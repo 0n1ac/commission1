@@ -1,0 +1,22 @@
+:root {
+  --color-cream: #f2efdf;
+  --color-orange: #f29f05;
+  --color-red: #a31f11;
+  --color-black: #1a1a1a;
+  --color-gray-600: #666666;
+  --color-gray-300: #d1d1d1;
+  --color-white: #ffffff;
+
+  --font-family: 'Pretendard', 'Noto Sans KR', sans-serif;
+
+  --radius-card: 12px;
+  --radius-button: 24px;
+
+  --shadow-card: 0 2px 8px rgba(0, 0, 0, 0.08);
+
+  --space-xs: 4px;
+  --space-sm: 8px;
+  --space-md: 12px;
+  --space-lg: 16px;
+  --space-xl: 32px;
+}
